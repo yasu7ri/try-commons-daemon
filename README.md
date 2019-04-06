@@ -1,4 +1,4 @@
-# Apache Commons Daemo を試しと残骸
+# Apache Commons Daemo 試しと残骸
 
 ## Jsvcは何者？
 UNIX Daemon と Java を取り持つモジュール。
